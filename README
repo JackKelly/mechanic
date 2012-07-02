@@ -2,6 +2,12 @@ This repository contains my Eclipse settings.  I used the excellent
 Workspace Mechanic to save these settings so I can syncronise my settings
 across different computers.
 
+In general, I've tried to configure Eclipse to be as unobtrusive as possible.
+I've turned off almost all autocompletion (I prefer autocompletion to only
+offer suggestions when I explicitly ask for suggestions using ALT+/ ).  Key
+bindings are Emacs-like.
+
+
 ==================
 INSTALLED PLUG-INs
 ==================
