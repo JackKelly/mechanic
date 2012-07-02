@@ -1,0 +1,14 @@
+# @title aptana_prefs
+# @description Prefs for the core of Aptana Studio
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Mon Jul 02 14:15:42 BST 2012
+
+file_export_version=3.0
+
+# Aptana > Themes > Apply to all (non-Studio) editors
+/instance/com.aptana.theme/apply_to_all_editors=true
+
+# Aptana > Editors > auto-close matching character pairs
+/instance/com.aptana.editor.common/com.aptana.editor.common.editorPeerCharacterClose=false

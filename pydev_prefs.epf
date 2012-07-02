@@ -1,0 +1,28 @@
+# @title pydev_prefs
+# @description PyDev preferences
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Mon Jul 02 14:01:39 BST 2012
+
+file_export_version=3.0
+
+# PyDev > Editor > Typing
+/instance/org.python.pydev/AUTO_ADD_SELF=false
+/instance/org.python.pydev/AUTO_PAR=false
+/instance/org.python.pydev/AUTO_COLON=false
+/instance/org.python.pydev/AUTO_LITERALS=false
+/instance/org.python.pydev/AUTO_BRACES=false
+
+# PyDev > Interactive Console
+/instance/org.python.pydev.debug/INTERACTIVE_CONSOLE_FOCUS_ON_CONSOLE_START=false
+/instance/org.python.pydev.debug/INTERACTIVE_CONSOLE_FOCUS_ON_SEND_COMMAND=false
+/instance/org.python.pydev.debug/INTERACTIVE_CONSOLE_CONNECT_VARIABLE_VIEW=true
+
+# PyDev > Code Completion
+/instance/org.python.pydev/AUTOCOMPLETE_DELAY=1000
+/instance/org.python.pydev/AUTOCOMPLETE_ON_DOT=false
+
+# PyDev > Cope Completion (ctx...
+/instance/com.python.pydev.codecompletion/USE_KEYWORDS_CODE_COMPLETION=false
+
