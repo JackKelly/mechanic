@@ -2,19 +2,16 @@ This repository contains my Eclipse settings.  I used the excellent
 Workspace Mechanic to save these settings so I can syncronise my settings
 across different computers.
 
-Eclipse Classic 4.2
-
+==================
 INSTALLED PLUG-INs
+==================
 
-Aptana Studio
-  website:
-  http://www.aptana.com/products/studio3/download
+ECLIPSE CLASSIC 4.2
+http://www.eclipse.org/downloads/
 
+APTANA STUDIO
+http://www.aptana.com/products/studio3/download
 
-Workspace Mechanic
+WORKSPACE MECHANIC
+http://code.google.com/a/eclipselabs.org/p/workspacemechanic/
 
-  website:
-  http://code.google.com/a/eclipselabs.org/p/workspacemechanic/
-
-  update site:
-  http://workspacemechanic.eclipselabs.org.codespot.com/git.update/mechanic
