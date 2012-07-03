@@ -29,9 +29,17 @@ http://code.google.com/a/eclipselabs.org/p/workspacemechanic/
 INSTALLATION
 ============
 
-cd ~/.eclipse/
-git clone git@github.com:JackKelly/mechanic.git
+First install all the software listed above.
+
+Then do:
+
+    cd ~/.eclipse/
+    git clone git@github.com:JackKelly/mechanic.git
 
 This should result in a directory called ~/.eclipse/mechanic/
 with all the .epf files.  You'll also need to import the
 eclipse_keybindings.csv file.
+
+Start Eclipse and Workspace Mechanic should automatically
+prompt you to fix the workspace so it satisfies the "tests"
+described in the ~/.eclipse/mechanic/*.epf files.
