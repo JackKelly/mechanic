@@ -1,0 +1,1 @@
+PyDev -> Interpreter - Python -> Forced Builtins -> add "gi"  (this will enable autocompletion for GTK3 stuff)
