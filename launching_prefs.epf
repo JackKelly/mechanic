@@ -1,0 +1,8 @@
+# @title launching
+# @description launching
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Tue Jul 17 12:45:42 BST 2012
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.UseContextualLaunch=false
+file_export_version=3.0
