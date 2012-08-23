@@ -1,3 +1,15 @@
+=================
+PLUGINS:
+=================
+
+Color Theme Plugin: http://marketplace.eclipse.org/content/eclipse-color-theme
+
+CDT
+
+==================
+SETTINGS:
+==================
+
 PyDev -> Interpreter - Python -> Forced Builtins -> add "gi"  (this will enable autocompletion for GTK3 stuff)
 
 PyDev -> Interpreter - Python -> Libraries -> New Folder -> /usr/local.lib/python2.7/dist-pacakges/pands-0.8.0-py2.7-linux-x86_64.egg
@@ -6,3 +18,11 @@ PyDev -> Interpreter - Python -> Libraries -> New Folder -> /usr/local.lib/pytho
 import sys
 print sys.path
 )
+
+General -> Appearance -> Color Theme -> Wombat
+
+(apply the Inactive code highlight AFTER setting and applying Color Theme to Wombat)
+
+C/C++ -> Editor -> Inactive code highlight -> #383838
+
+
