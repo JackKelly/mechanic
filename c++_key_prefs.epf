@@ -1,0 +1,8 @@
+# @title C++Keys
+# @description C++Keys
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Fri Aug 24 10:12:58 BST 2012
+file_export_version=3.0
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\n<org.eclipse.ui.commands>\n<activeKeyConfiguration keyConfigurationId\="org.eclipse.ui.emacsAcceleratorConfiguration"/>\n<keyBinding commandId\="org.eclipse.ui.project.buildProject" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.emacsAcceleratorConfiguration" keySequence\="CTRL+X C"/>\n<keyBinding commandId\="org.eclipse.ui.project.cleanAction" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.emacsAcceleratorConfiguration" keySequence\="CTRL+SHIFT+X C"/>\n</org.eclipse.ui.commands>
