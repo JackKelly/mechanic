@@ -25,4 +25,5 @@ General -> Appearance -> Color Theme -> Wombat
 
 C/C++ -> Editor -> Inactive code highlight -> #383838
 
-
+**Disable bold text***
+http://stackoverflow.com/questions/6051980/how-can-i-disable-the-use-of-bold-fonts-when-editing-code-in-eclipse
