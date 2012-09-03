@@ -1,0 +1,13 @@
+# @title C++
+# @description C++
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Mon Sep 03 15:52:50 BST 2012
+file_export_version=3.0
+/instance/org.eclipse.cdt.ui/closeAngularBrackets=false
+/instance/org.eclipse.cdt.ui/closeBraces=false
+/instance/org.eclipse.cdt.ui/sourceHoverBackgroundColor=255,255,255
+/instance/org.eclipse.cdt.ui/content_assist_proposals_timeout=5000
+/instance/org.eclipse.cdt.ui/closeBrackets=false
+/instance/org.eclipse.cdt.ui/closeStrings=false
