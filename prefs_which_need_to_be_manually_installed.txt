@@ -2,9 +2,10 @@
 PLUGINS:
 =================
 
-Color Theme Plugin: http://marketplace.eclipse.org/content/eclipse-color-theme
-
-CDT
+* Color Theme Plugin: http://marketplace.eclipse.org/content/eclipse-color-theme
+* CDT
+* Workspace Mechanic: http://code.google.com/a/eclipselabs.org/p/workspacemechanic/
+* AVR: http://avr-eclipse.sourceforge.net/updatesite
 
 ==================
 SETTINGS:
