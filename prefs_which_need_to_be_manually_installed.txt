@@ -2,7 +2,7 @@
 PLUGINS:
 =================
 
-* Color Theme Plugin: http://marketplace.eclipse.org/content/eclipse-color-theme
+* (No longer using this as I'm starting to prefer the standard colour profile.. but for reference, I used to us: Color Theme Plugin: http://marketplace.eclipse.org/content/eclipse-color-theme )
 * CDT
 * Aptana Studio 3: http://www.aptana.com/products/studio3/download
 * Workspace Mechanic: http://code.google.com/a/eclipselabs.org/p/workspacemechanic/
@@ -21,11 +21,12 @@ import sys
 print sys.path
 )
 
+**Disable bold text***
+http://stackoverflow.com/questions/6051980/how-can-i-disable-the-use-of-bold-fonts-when-editing-code-in-eclipse
+
+***When I used to use black background for coding:***
 General -> Appearance -> Color Theme -> Wombat
 
 (apply the Inactive code highlight AFTER setting and applying Color Theme to Wombat)
 
 C/C++ -> Editor -> Inactive code highlight -> #383838
-
-**Disable bold text***
-http://stackoverflow.com/questions/6051980/how-can-i-disable-the-use-of-bold-fonts-when-editing-code-in-eclipse
