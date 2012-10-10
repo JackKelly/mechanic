@@ -4,6 +4,7 @@ PLUGINS:
 
 * Color Theme Plugin: http://marketplace.eclipse.org/content/eclipse-color-theme
 * CDT
+* Aptana Studio 3: http://www.aptana.com/products/studio3/download
 * Workspace Mechanic: http://code.google.com/a/eclipselabs.org/p/workspacemechanic/
 * AVR: http://avr-eclipse.sourceforge.net/updatesite
 
