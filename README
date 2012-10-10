@@ -11,27 +11,9 @@ key_prefs.epf was created by going to
 File > Export > General > Preferences > Keys Preferences
 
 
-==================
-INSTALLED PLUG-INs
-==================
-
-ECLIPSE CLASSIC 4.2
-http://www.eclipse.org/downloads/
-
-APTANA STUDIO
-http://www.aptana.com/products/studio3/download
-
-WORKSPACE MECHANIC
-http://code.google.com/a/eclipselabs.org/p/workspacemechanic/
-
-
 ============
 INSTALLATION
 ============
-
-First install all the software listed above.
-
-Then do:
 
     cd ~/.eclipse/
     git clone git@github.com:JackKelly/mechanic.git
