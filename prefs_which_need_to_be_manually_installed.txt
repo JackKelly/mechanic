@@ -12,6 +12,8 @@ PLUGINS:
 SETTINGS:
 ==================
 
+Import the c++_style_profile.xml in C/C++ -> Code Style -> Formatter.
+
 PyDev -> Interpreter - Python -> Forced Builtins -> add "gi"  (this will enable autocompletion for GTK3 stuff)
 
 PyDev -> Interpreter - Python -> Libraries -> New Folder -> /usr/local.lib/python2.7/dist-pacakges/pands-0.8.0-py2.7-linux-x86_64.egg
