@@ -1,0 +1,15 @@
+# @title pydev
+# @description pydev
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Tue Oct 30 12:14:13 GMT 2012
+/instance/org.python.pydev/AUTO_ADD_SELF=false
+/instance/org.python.pydev/AUTO_PAR=false
+file_export_version=3.0
+/instance/org.python.pydev/org.python.pydev.editor.templates.PyTemplatePreferencesPage=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+/instance/org.python.pydev/AUTO_LITERALS=false
+/instance/org.python.pydev/AUTO_BRACES=false
+/instance/org.python.pydev/AUTOCOMPLETE_ON_DOT=false
+/instance/com.python.pydev.codecompletion/USE_KEYWORDS_CODE_COMPLETION=false
+/instance/org.python.pydev/AUTO_WRITE_IMPORT_STR=false
