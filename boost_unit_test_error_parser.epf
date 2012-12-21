@@ -1,9 +1,0 @@
-# @title BoostUnitTestErrorParser
-# @description http://stackoverflow.com/a/3778246/732596
-# @task_type LASTMOD
-#
-# Created by the Workspace Mechanic Preference Recorder
-#Fri Dec 21 17:35:24 GMT 2012
-file_export_version=3.0
-/instance/org.eclipse.cdt.core/language.settings.providers.workspace.prefs.toggle=true
-/instance/org.eclipse.cdt.core/errorparser.default.ids=org.eclipse.cdt.autotools.core.ErrorParser;org.eclipse.cdt.core.GASErrorParser;org.eclipse.cdt.core.GCCErrorParser;org.eclipse.cdt.core.GLDErrorParser;org.eclipse.cdt.core.GmakeErrorParser;org.eclipse.cdt.core.VCErrorParser;org.eclipse.cdt.core.CWDLocator;org.eclipse.cdt.core.MakeErrorParser;org.eclipse.cdt.ui.Boost Unit Test Error Parser
