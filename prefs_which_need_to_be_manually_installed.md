@@ -1,14 +1,15 @@
 # PLUGINS:
 
-* [EGit](http://www.eclipse.org/egit/download/)
 * CDT
-* [PyDev](http://pydev.org/manual_101_install.html)
+* [Aptana Studio 3](http://www.aptana.com/products/studio3/download)
 * [C/C++ Tests Runner](https://github.com/xgsa/cdt-tests-runner/wiki/Tutorial)
 * [Workspace Mechanic](http://code.google.com/a/eclipselabs.org/p/workspacemechanic/)
 * [AVR](http://avr-eclipse.sourceforge.net/updatesite)
 
 Things I used to use:
-* [Aptana Studio 3](http://www.aptana.com/products/studio3/download)
+
+* [EGit](http://www.eclipse.org/egit/download/)
+* [PyDev](http://pydev.org/manual_101_install.html)
 * No longer using this as I'm starting to prefer the standard colour profile.. 
   but for reference, I used to us: [Color Theme Plugin](http://marketplace.eclipse.org/content/eclipse-color-theme)
 
