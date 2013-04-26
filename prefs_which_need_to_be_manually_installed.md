@@ -1,5 +1,6 @@
 # PLUGINS:
 
+* [EGit](http://www.eclipse.org/egit/download/)
 * CDT
 * [PyDev](http://pydev.org/manual_101_install.html)
 * [C/C++ Tests Runner](https://github.com/xgsa/cdt-tests-runner/wiki/Tutorial)
