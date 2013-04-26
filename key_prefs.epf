@@ -1,7 +1,8 @@
-#Thu Jul 12 15:26:57 BST 2012
+# @title key_prefs
+# @description key_prefs
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Fri Apr 26 12:58:57 BST 2013
 file_export_version=3.0
-/instance/org.eclipse.ui/KEY_CONFIGURATION_ID=org.eclipse.ui.emacsAcceleratorConfiguration
-@org.eclipse.ui=3.103.0.v20120521-2329
-@org.eclipse.ui.workbench=3.103.0.v20120530-1824
 /instance/org.eclipse.ui.workbench/org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\n<org.eclipse.ui.commands>\n<activeKeyConfiguration keyConfigurationId\="org.eclipse.ui.emacsAcceleratorConfiguration"/>\n<keyBinding commandId\="org.eclipse.debug.ui.commands.RunLast" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.emacsAcceleratorConfiguration" keySequence\="CTRL+X C"/>\n<keyBinding commandId\="org.eclipse.ui.window.nextView" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.emacsAcceleratorConfiguration" keySequence\="CTRL+X O"/>\n</org.eclipse.ui.commands>
-\!/=
