@@ -5,6 +5,7 @@
 * [C/C++ Tests Runner](https://github.com/xgsa/cdt-tests-runner/wiki/Tutorial)
 * [Workspace Mechanic](http://code.google.com/a/eclipselabs.org/p/workspacemechanic/)
 * [AVR](http://avr-eclipse.sourceforge.net/updatesite)
+* [ShellEd](http://sourceforge.net/apps/trac/shelled/wiki/Documentation/InstallGuide) (for bash scripts)
 
 Things I used to use:
 
